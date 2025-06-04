@@ -1,0 +1,9 @@
+# 定義一個加總函式
+function sum(a, b) {
+    return a + b;
+}
+
+let x = 10;
+let y = 20;
+let total = sum(x, y);
+print("總和為：", total);

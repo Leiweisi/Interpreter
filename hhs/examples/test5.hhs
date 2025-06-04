@@ -1,0 +1,11 @@
+# 建立一個函式來輸出名單
+function greet(nameList) {
+    let i = 0;
+    while (i < 3) {
+        print("你好，", nameList[i], "！");
+        i = i + 1;
+    }
+}
+
+let names = ["小明", "小美", "阿強"];
+greet(names);

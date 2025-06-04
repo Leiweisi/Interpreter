@@ -1,0 +1,11 @@
+# 布林邏輯測試
+let x = true;
+let y = false;
+
+if (x && !y) {
+    print("邏輯and成功（x and y）");
+}
+
+if (x || y) {
+    print("邏輯or成功（x or y）");
+}

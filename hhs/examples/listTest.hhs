@@ -1,0 +1,14 @@
+function get(x) {
+    let a = [10, 20, 30];
+    return a[x];
+}
+
+print(get(1));  # 應輸出 20.0
+
+function set_index(x, val) {
+    let a = [1, 2, 3];
+    a[x] = val;
+    print(a[x]);
+}
+
+set_index(2, 99);  # 應輸出 99.0

@@ -1,0 +1,11 @@
+# 建立一個整數列表，判斷是否為偶數並印出
+let nums = [1, 2, 3, 4, 5];
+let i = 0;
+while (i < 5) {
+    if (nums[i] % 2 == 0) {
+        print("偶數：", nums[i]);
+    } else {
+        print("奇數：", nums[i]);
+    }
+    i = i + 1;
+}

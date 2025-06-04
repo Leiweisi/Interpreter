@@ -1,0 +1,19 @@
+function sum(n) {
+    let result = 0;
+    let i = 1;
+    while (i <= n) {
+        result = result + i;
+        i = i + 1;
+    }
+    return result;
+}
+
+let number = 10;
+print("Sum of numbers from 1 to", number, "is", sum(number));
+
+if (number % 2 == 0) {
+    print(number, "is even");
+} 
+else {
+    print(number, "is odd");
+}
