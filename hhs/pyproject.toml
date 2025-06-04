@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hhs"
+version = "0.1"
+description = "A toy programming language implemented in Python."
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}
+
+[project.scripts]
+hhs = "hhs.runtime_cli:main"

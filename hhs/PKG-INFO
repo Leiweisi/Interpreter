@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: hhs-lang
+Version: 0.1
+Summary: A toy programming language implemented in Python.
+Author-email: Your Name <you@example.com>
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
