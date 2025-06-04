@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+hhs/__init__.py
+hhs/ast.py
+hhs/interpreter.py
+hhs/lexer.py
+hhs/parser.py
+hhs/runtime.py
+hhs/runtime_cli.py
+hhs.egg-info/PKG-INFO
+hhs.egg-info/SOURCES.txt
+hhs.egg-info/dependency_links.txt
+hhs.egg-info/entry_points.txt
+hhs.egg-info/top_level.txt
