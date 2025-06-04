@@ -1,0 +1,2 @@
+[console_scripts]
+hhs = hhs.runtime_cli:main
