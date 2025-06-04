@@ -10,7 +10,7 @@ HHS 是一個以 Python 開發的簡易直譯式程式語言，支援基礎數�
 
 ### ✅ 1. 一般本地安裝（從原始碼）
 
-請打開終端機，**切換至專案根目錄**（即包含 `setup.py` 和 `pyproject.toml` 的資料夾，例如 `C:\hhs`），輸入：
+請打開終端機，**切換至專案根目錄(hhs)**（即包含 `setup.py` 和 `pyproject.toml` 的資料夾，例如 `C:\hhs`），輸入：
 
 ```bash
 pip install .
